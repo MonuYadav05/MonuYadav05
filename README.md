@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Monu Yadav</h1>
 <h3 align="center">An aspiring Full Stack Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devhrithik&label=Profile%20views&color=0e75b6&style=flat" alt="devhrithik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monuyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="devhrithik" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development and Best Practices**
 
