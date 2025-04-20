@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monuyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="devhrithik" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Best Practices**
+- 🌱 I’m currently learning **Full Stack Development and Blockchain**
 
 - 🤝 I’m looking for help with **Modern Web Technologies**
 
-- 💬 Ask me about Nextjs ,  MERN, and various tools of DevOps**
+- 💬 Ask me about Nextjs , MERN, and various tools of DevOps**
 
 - 📫 How to reach me **monuyadav.iitr@gmail.com**
 
